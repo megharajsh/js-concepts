@@ -1,24 +1,15 @@
 <h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="JS Concepts" width=200"></a>
+  <a href="https://github.com/megharajsh/js-concepts"><img src="https://i.imgur.com/WIWlYMN.jpg" alt="JS Concepts" width=300"></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  JavaScript Concepts
   <br>
 </h1>
 
-<p align="center">
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
-  </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="License MIT">
-  </a>
-</p>
-
 ## Introduction
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1). Feel free to contribute.
+This repository has the links and videos of JavaScript concepts.
 
 ---
 
